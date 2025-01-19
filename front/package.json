@@ -1,0 +1,24 @@
+{
+      "name": "kaleidoscope-dualite-generated-code",
+      "version": "0.0.0",
+      "private": true,
+      "type": "module",
+      "scripts": {
+            "dev": "vite",
+            "build": "vite build",
+            "preview": "vite preview",
+            "start": "vite"
+      },
+      "dependencies": {
+            "canvas-confetti": "^1.9.3",
+            "muuri": "^0.9.5",
+            "react": "^18.3.1",
+            "react-beautiful-dnd": "^13.1.1",
+            "react-dom": "^18.3.1",
+            "react-router-dom": "^7.0.2"
+      },
+      "devDependencies": {
+            "@vitejs/plugin-react": "^4.0.3",
+            "vite": "^4.4.5"
+      }
+}
