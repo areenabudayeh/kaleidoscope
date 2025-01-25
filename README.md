@@ -5,11 +5,12 @@
 episodes can be viewed in any order, influencing the viewer's understanding of the overall
 plot. This structure shows the relationship between episode sequencing and genre
 classification, which results in varied perceptions of the storyline based on the sequence
-chosen. The series consist of 8 episodes, each named after a color (e.g., Yellow, Blue,
+chosen.  
+The series consist of 8 episodes, each named after a color (e.g., Yellow, Blue,
 Green).
 An example would be watching the series in episode sequence such as “Yellow,” “Green,” “Blue,” “Orange,” “Violet,” “Pink,” “Red,” and 
 “White” might yield a dominant classification of Action and genre probabilities like 40% 
-action, 21% drama, and 39% thriller.
+action, 21% drama, and 39% thriller.  
 This structure presents an interesting challenge of *how does the order of episodes affect
 the perceived genre?*
 
