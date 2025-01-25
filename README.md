@@ -13,8 +13,7 @@ action, 21% drama, and 39% thriller.
 This structure presents an interesting challenge of *how does the order of episodes affect
 the perceived genre?*
 
-**Our Project**
-By leveraging machine learning, the project explores:
+By leveraging *Machine Learning*, the project explores:
 - **Classification**: Identifying the dominant genre (action, drama, thriller) for a sequence.
 - **Regression**: Predicting percentage contributions of each genre for a sequence.
 
